@@ -51,3 +51,4 @@ branch_5 - Commit 9
 branch_5 - Commit 10
 branch_6 - Commit 1
 branch_6 - Commit 2
+branch_6 - Commit 3
