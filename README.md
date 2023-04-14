@@ -12,3 +12,4 @@ branch_1 - Commit 10
 branch_2 - Commit 1
 branch_2 - Commit 2
 branch_2 - Commit 3
+branch_2 - Commit 4
