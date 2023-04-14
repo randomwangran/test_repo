@@ -29,3 +29,4 @@ branch_3 - Commit 7
 branch_3 - Commit 8
 branch_3 - Commit 9
 branch_3 - Commit 10
+branch_4 - Commit 1
