@@ -21,3 +21,4 @@ branch_2 - Commit 9
 branch_2 - Commit 10
 branch_3 - Commit 1
 branch_3 - Commit 2
+branch_3 - Commit 3
